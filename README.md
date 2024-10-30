@@ -51,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0866-rectangle-overlap](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0866-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
