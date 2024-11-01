@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [1306-minimum-absolute-difference](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1319-unique-number-of-occurrences](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0169-majority-element) |
+| [1319-unique-number-of-occurrences](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
