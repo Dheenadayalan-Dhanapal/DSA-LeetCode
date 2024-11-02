@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Math
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2580-circular-sentence) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
