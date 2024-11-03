@@ -83,10 +83,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2580-circular-sentence) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
