@@ -13,12 +13,11 @@ class NumArray {
     }
     
     public int sumRange(int left, int right) {
-        // if(left == 0){
-        //     return Ps[right];
-        // } else {
-            
-        // }  
-        return Ps[right] - Ps[left] + nums[left];
+        if(left != 0){
+            return Ps[right] - Ps[left] + nums[left];
+        } else {
+            return Ps[right];
+        }  
     }
 }
 
