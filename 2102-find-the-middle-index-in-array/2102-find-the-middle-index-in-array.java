@@ -9,10 +9,10 @@ class Solution {
         }
         totalSum = ps[N - 1];
 
-        if (totalSum - nums[0] == 0) {
+        if(totalSum - ps[0] == 0){
             return 0;
         }
-        
+
         for(int i = 1; i < N; i++){
             if(ps[i - 1] == totalSum - ps[i]){
                 return i;
