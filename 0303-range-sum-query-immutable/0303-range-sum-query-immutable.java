@@ -9,14 +9,13 @@ class NumArray {
         for(int i = 1; i < nums.length; i++){
             Ps[i] = Ps[i - 1] + nums[i];
         }
-        
     }
     
     public int sumRange(int left, int right) {
-        if(left != 0){
-            return Ps[right] - Ps[left] + nums[left];
-        } else {
+        if(left == 0){
             return Ps[right];
+        } else {
+            return Ps[right] - Ps[left - 1];
         }  
     }
 }
