@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
