@@ -4,7 +4,7 @@ class Solution {
         long[] ps = new long[N];
         ps[0] = nums[0];
         for(int i = 1; i < N; i++){
-            ps[i] = ps[i - 1] + nums[i];
+            ps[i] = (long) ps[i - 1] + nums[i];
         }
         int count = 0;
         long totalSum = ps[N - 1];
