@@ -5,10 +5,10 @@ class Solution {
             int start = booking[0] - 1;
             int end   = booking[1];
             int val   = booking[2];
-            res[start] = res[start] + val;
+            res[start] += val;
 
             if(end < n){
-                res[end] = res[end] - val;
+                res[end] -= val;
             }
         }
 
