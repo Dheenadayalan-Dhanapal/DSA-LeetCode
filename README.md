@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1603-running-sum-of-1d-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1677-matrix-diagonal-sum](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
