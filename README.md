@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0898-transpose-matrix](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0898-transpose-matrix) |
 | [1206-corporate-flight-bookings](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1306-minimum-absolute-difference](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -121,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
