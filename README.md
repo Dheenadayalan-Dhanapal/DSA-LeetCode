@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -132,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0898-transpose-matrix) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
