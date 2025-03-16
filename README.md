@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0742-to-lower-case) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
