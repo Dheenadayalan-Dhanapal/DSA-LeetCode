@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0898-transpose-matrix](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0898-transpose-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
