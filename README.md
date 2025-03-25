@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1306-minimum-absolute-difference](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1306-minimum-absolute-difference) |
 ## Hash Table
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1319-unique-number-of-occurrences](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1319-unique-number-of-occurrences) |
 ## Divide and Conquer
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0866-rectangle-overlap](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0866-rectangle-overlap) |
 ## Geometry
 |  |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -150,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
