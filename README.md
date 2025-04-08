@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0066-plus-one) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0268-missing-number) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1677-matrix-diagonal-sum) |
