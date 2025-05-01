@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2358-number-of-ways-to-split-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1306-minimum-absolute-difference](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## String
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## String Matching
 |  |
 | ------- |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Sliding Window
 |  |
 | ------- |
@@ -191,4 +196,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
