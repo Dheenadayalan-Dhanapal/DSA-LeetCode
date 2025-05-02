@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0868-push-dominoes](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0868-push-dominoes) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0868-push-dominoes](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0868-push-dominoes) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0868-push-dominoes) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2580-circular-sentence) |
 | [3451-string-compression-iii](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/3451-string-compression-iii) |
