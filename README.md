@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0898-transpose-matrix](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0898-transpose-matrix) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1206-corporate-flight-bookings](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1306-minimum-absolute-difference](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## String Matching
 |  |
