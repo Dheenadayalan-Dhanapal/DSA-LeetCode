@@ -1,15 +1,12 @@
 class Solution {
     public int kthGrammar(int n, int k) {
-        if (n == 1 || k == 1) {
+        if(n == 1 || k == 1){
             return 0;
         }
-
-        int mid = 1 << (n - 2); // equivalent to 2^(n - 2)
-
-        if (k <= mid) {
+        if(k <= (1 << (n-2))){
             return kthGrammar(n - 1, k);
-        } else {
-            return 1 - kthGrammar(n - 1, k - mid);
+        } else{
+            return 1 - kthGrammar(n - 1,k - (1 << (n-2)));
         }
     }
 }
