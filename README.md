@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0898-transpose-matrix](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0898-transpose-matrix) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Hash Table
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0868-push-dominoes](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0868-push-dominoes) |
 ## Math
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## String Matching
