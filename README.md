@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0268-missing-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0866-rectangle-overlap](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0866-rectangle-overlap) |
@@ -237,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
