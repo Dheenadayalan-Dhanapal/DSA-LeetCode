@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2358-number-of-ways-to-split-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0868-push-dominoes](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
