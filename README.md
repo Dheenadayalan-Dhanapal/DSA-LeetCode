@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0204-count-primes) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Binary Search
