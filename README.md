@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0812-rotate-string) |
@@ -285,4 +286,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Dheenadayalan-Dhanapal/DSA-LeetCode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
